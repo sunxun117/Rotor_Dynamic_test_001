@@ -1,0 +1,12 @@
+{
+  "default5320": "0",
+  "cardID5320": "5324",
+  "SlotNumber": "4",
+  "InputRange": "±10V",
+  "lowRange5320": -10.0,
+  "highRange5320": 10.0,
+  "SampleRate": 5000.0,
+  "SamplesToAcquire": 2000.0,
+  "DataFilePath5320": "G:\\Coding\\C#_SeeSharp\\Rotor_Dynamic_test_Data",
+  "5320ChannelCount": 1
+}
